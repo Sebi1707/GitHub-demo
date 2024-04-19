@@ -14,3 +14,7 @@
 ### Signale und Systeme
 
 ### Mathematik 3
+
+- Potenzreihen
+- Fourier-Reihen
+- Fourier-Transformation

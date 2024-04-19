@@ -13,6 +13,8 @@
 - Agile Softwareentwicklung
 - Requirements Engineering
 - Business Analysis
+- Testing
+- Versionsverwaltung
 
 ### Signale und Systeme
 

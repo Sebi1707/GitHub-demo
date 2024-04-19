@@ -4,12 +4,13 @@
 
 ## Module
 
-### Software Technik
+### Software-Technik
 
-- Einführung
-- Vorgehensmodelle
+- Allgemeine Einführung
+- Übersicht Vorgehensmodelle
 - Agile Softwareentwicklung
 - Requirements Engineering
+- Business Analysis
 
 ### Signale und Systeme
 

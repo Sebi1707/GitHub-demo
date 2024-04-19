@@ -18,3 +18,4 @@
 - Potenzreihen
 - Fourier-Reihen
 - Fourier-Transformation
+- Laplace

@@ -16,6 +16,8 @@
 
 ### Signale und Systeme
 
+- periodische Signale
+
 ### Mathematik 3
 
 - Potenzreihen

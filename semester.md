@@ -17,6 +17,8 @@
 ### Signale und Systeme
 
 - periodische Signale
+- nicht periodischen Signale
+- Systeme
 
 ### Mathematik 3
 
